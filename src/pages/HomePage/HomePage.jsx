@@ -1,6 +1,10 @@
 function HomePage() {
-
-    return( <p>Home Page</p>)
+  return (
+    <div>
+        <section>Hero</section>
+      <p>Home Page</p>
+    </div>
+  );
 }
 
 export default HomePage;

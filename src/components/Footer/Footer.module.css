@@ -1,5 +1,5 @@
 .footer {
-    background-color: var(--background-transparent-color);
+    background-color: rgb(233, 233, 233);
     align-items: baseline;
     text-align: center;
     margin-top: auto;
@@ -7,6 +7,7 @@
 }
 
 .text {
+  background-color: rgb(113, 184, 255);
   letter-spacing: 0.8px;
   padding: 1em;
 }

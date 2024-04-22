@@ -1,13 +1,28 @@
 .nav {
-    display: flex;
-    gap: 12px;
+  display: flex;
+  gap: 12px;
 }
 
-
-.link{
-    color: blue;
+.logoLink {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.active{
-    color: brown;
+.logoName {
+  color: orange;
+}
+
+.logoHeart {
+  color: rgb(148, 0, 0);
+  width: 24px;
+  height: 24px;
+}
+
+.link {
+  color: blue;
+}
+
+.active {
+  color: brown;
 }
